@@ -11,7 +11,7 @@ connection.connect((err) => {
         console.log("DB Conectada correctamente");
     }
 });
-//fin de conexion db
+//fin de conexion db ejemplo
 
 var personaDb = {};
 
